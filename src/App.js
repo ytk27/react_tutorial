@@ -10,7 +10,7 @@ import './Style.scss';
 
 function App() {
   return (
-    <BrowserRouter basename='/React'>
+    <BrowserRouter>
       <header>
         <NavLink to="/">HOME</NavLink>
         <NavLink to="/css">CSS</NavLink>
