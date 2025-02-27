@@ -2,7 +2,7 @@ import { BrowserRouter, Route, NavLink, Routes } from 'react-router-dom'
 import Deploy from './page/Deploy';
 import Home from './page/Home';
 import Router from './page/Router';
-import StateProps from './page/StateProps';
+import StateProps from './page/Stateprops';
 import Css from './page/Css';
 
 import './Style.scss';
